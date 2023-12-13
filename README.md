@@ -11,3 +11,5 @@ NOTE: Please don't store this program on the CANtieCAR interface!
 Some modes doesn't expose the thumbdrive, so you won't be able to use shortcuts.
 
 Requires [.NET Desktop Runtime 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+
+![Screenshot](https://github.com/Jeppo/CANtieCAR_modeswitch/blob/master/screenshot.png?raw=true)
